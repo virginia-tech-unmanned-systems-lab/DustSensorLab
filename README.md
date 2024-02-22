@@ -29,3 +29,5 @@ The `main_1.py` script takes it a step further by writing the sensor values to a
 2. Save the script and rename it to main.py
 3. We will get the sensor values to a text file - download the file and check 
 
+**Challenge: Mount the sensor to the drone then pull GPS and time stamp data **
+
